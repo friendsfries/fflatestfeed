@@ -1,0 +1,20 @@
+#wrapper{
+background:url(/static/images/meet.jpg);
+background-repeat:no-repeat;
+height:1000px;
+ }
+
+a {
+  font-family: lucida caligraphy;
+  font-size: 25px;
+  color:#cf9;
+  text-decoration:none;
+  
+}	
+
+a:hover {
+  font-family: lucida caligraphy;
+  font-size: 25px;
+  color:#aaa;
+  text-decoration:none;
+}
